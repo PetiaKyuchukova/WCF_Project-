@@ -1,0 +1,7 @@
+C:\Users\petia\source\repos\BigSister\BigSister\obj\Debug\BigSister.csproj.CoreCompileInputs.cache
+C:\Users\petia\source\repos\BigSister\BigSister\bin\Debug\BigSister.dll.config
+C:\Users\petia\source\repos\BigSister\BigSister\bin\Debug\BigSister.dll
+C:\Users\petia\source\repos\BigSister\BigSister\bin\Debug\BigSister.pdb
+C:\Users\petia\source\repos\BigSister\BigSister\obj\Debug\BigSister.dll
+C:\Users\petia\source\repos\BigSister\BigSister\obj\Debug\BigSister.pdb
+C:\Users\petia\source\repos\BigSister\BigSister\obj\Debug\BigSister.csproj.AssemblyReference.cache

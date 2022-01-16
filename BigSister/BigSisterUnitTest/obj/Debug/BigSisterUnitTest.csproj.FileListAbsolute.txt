@@ -1,0 +1,17 @@
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\BigSisterUnitTest.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\BigSisterUnitTest.pdb
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\BigSister.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\BigSister.pdb
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\BigSister.dll.config
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\obj\Debug\BigSisterUnitTest.csproj.AssemblyReference.cache
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\obj\Debug\BigSisterUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\obj\Debug\BigSisterUnitTest.csproj.CopyComplete
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\obj\Debug\BigSisterUnitTest.dll
+C:\Users\petia\source\repos\BigSister\BigSisterUnitTest\obj\Debug\BigSisterUnitTest.pdb
