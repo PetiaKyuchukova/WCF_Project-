@@ -1039,11 +1039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CV\\WCF_Project\\BigSister\\WCFService1ClientConsole\\WCFService1ClientConsole.csproj",
+      "projectUniqueName": "D:\\CV\\WCF_Project\\WCF_Project-\\BigSister\\WCFService1ClientConsole\\WCFService1ClientConsole.csproj",
       "projectName": "WCFService1ClientConsole",
-      "projectPath": "D:\\CV\\WCF_Project\\BigSister\\WCFService1ClientConsole\\WCFService1ClientConsole.csproj",
+      "projectPath": "D:\\CV\\WCF_Project\\WCF_Project-\\BigSister\\WCFService1ClientConsole\\WCFService1ClientConsole.csproj",
       "packagesPath": "C:\\Users\\petia\\.nuget\\packages\\",
-      "outputPath": "D:\\CV\\WCF_Project\\BigSister\\WCFService1ClientConsole\\obj\\",
+      "outputPath": "D:\\CV\\WCF_Project\\WCF_Project-\\BigSister\\WCFService1ClientConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1063,8 +1063,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\CV\\WCF_Project\\BigSister\\BigSister\\BigSister.csproj": {
-              "projectPath": "D:\\CV\\WCF_Project\\BigSister\\BigSister\\BigSister.csproj"
+            "D:\\CV\\WCF_Project\\WCF_Project-\\BigSister\\BigSister\\BigSister.csproj": {
+              "projectPath": "D:\\CV\\WCF_Project\\WCF_Project-\\BigSister\\BigSister\\BigSister.csproj"
             }
           }
         }

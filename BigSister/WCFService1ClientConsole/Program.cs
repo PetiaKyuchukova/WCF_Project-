@@ -52,7 +52,7 @@ namespace WCFService1ClientConsole
                 Console.WriteLine("Exception thrown - "+ exception.Message);
             }
             
-            Console.WriteLine(calculatedPrice.ToString());
+            Console.WriteLine("BigSister tax:" + calculatedPrice.ToString());
         }
     }
 }

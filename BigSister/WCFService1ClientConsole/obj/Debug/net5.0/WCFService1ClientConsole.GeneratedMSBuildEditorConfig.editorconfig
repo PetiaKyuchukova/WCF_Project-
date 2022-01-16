@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WCFService1ClientConsole
-build_property.ProjectDir = D:\CV\WCF_Project\BigSister\WCFService1ClientConsole\
+build_property.ProjectDir = D:\CV\WCF_Project\WCF_Project-\BigSister\WCFService1ClientConsole\

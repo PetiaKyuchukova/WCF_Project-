@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dVqCCrmgrDJaQsfrnTV2/fHEr90i20SdQQ+jM8BBK9pEa21bD0NykOwHgFRmv5a2FQ5CP2lphP4pDu2I0z3zwA==",
+  "dgSpecHash": "9qnmVaEbKa7ye9DXDWhT6ifdd1n02QaKd+zmFCnv3mW55yFvm1gDU7xM9iH86w6Kcss+YjV6Wmmk3xyukQpQzw==",
   "success": true,
-  "projectFilePath": "D:\\CV\\WCF_Project\\BigSister\\WCFService1ClientConsole\\WCFService1ClientConsole.csproj",
+  "projectFilePath": "D:\\CV\\WCF_Project\\WCF_Project-\\BigSister\\WCFService1ClientConsole\\WCFService1ClientConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\petia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\petia\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
